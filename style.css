@@ -1,0 +1,50 @@
+/* * {
+    margin: 2px ;
+} */
+
+body {
+    font-size: 24px;
+    color: black;
+    height: 100vh;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #1F2937;
+    height: 50px;
+    
+}
+
+.header-logo {
+    padding-top: 0px;
+    padding-left: 300px;
+    
+}
+
+.header-links {
+    padding-top: 15px;
+    padding-right: 300px;
+    font-size: 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #1F2937;
+    height: 300px;
+}
+
+.section1right {
+    padding: 50px;
+}
